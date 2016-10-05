@@ -1,0 +1,2 @@
+# cmtbnccotest
+commitをbranchしながらcheckoutするテスト
